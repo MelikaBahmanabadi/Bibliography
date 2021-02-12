@@ -1,0 +1,26 @@
+.node:hover{
+     stroke-width: 7px !important;
+     opacity: 1 !important;
+}
+@font-face {
+  font-family: Yekan;
+  src: url('../fonts/Yekan.ttf');
+}
+.yek{
+    font-family: 'Yekan'
+}
+h2{
+    text-align: right;
+    color : #0e9878;
+    margin-right: 1%;
+}
+#my_dataviz{
+    text-align: center;
+}
+#booktitle{
+   color: #307faf;
+   font-weight: bold;
+}
+#bookdownload{
+   color: #ff5722
+}
